@@ -1,11 +1,12 @@
-### Hi there, I'm Vijay
+<img align="right" src="https://komarev.com/ghpvc/?username=Iamthevk" alt="Iamthevk">
 
-## I am a frontend engineer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=4000&pause=1000&color=CE1F99&center=true&width=435&lines=Hello+there!;I+am+Vijay)](https://git.io/typing-svg)
+## I am a frontend engineer from India 
 
-- 🍀 I'm currently learning React, Redux & Nextjs
+- 🍀 I'm currently learning React, Web3, Redux & Nextjs
 - 👯 I'm looking to collaborate with other frontend developers
 - ⏰ 2022-23 Goals: Contribute more to Open Source Projects
-- 🎸 Fun fact: I love the pool game & play music
+- 🎸 Fun fact: I love to play music
 
 
 ### Languages and Tools:
