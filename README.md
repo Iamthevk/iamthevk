@@ -1,11 +1,20 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=Iamthevk" alt="Iamthevk">
+<!-- <img align="right" src="https://komarev.com/ghpvc/?username=Iamthevk" alt="Iamthevk"> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=4000&pause=1000&color=CE1F99&center=true&width=435&lines=Hello+there!;I+am+Vijay)](https://git.io/typing-svg)
-## I am a frontend engineer from India 
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-- 🍀 I'm currently learning React, Web3, Redux & Nextjs
+## I am Frontend Developer @Frontier
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/imvijaykr">
+    <img src="https://img.shields.io/badge/vijay_kumar-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+ </a>
+<a href="https://twitter.com/Imthevk">
+    <img src="https://img.shields.io/badge/-@Iamthevk-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+ </a>
+
+- 🍀 I'm currently working on projects using Nextjs, typescript, tailwindcss & Web3
 - 👯 I'm looking to collaborate with other frontend developers
-- ⏰ 2022-23 Goals: Contribute more to Open Source Projects
+- ⏰ 2023 Goals: Contribute more to Open Source Projects
 - 🎸 Fun fact: I love to play music
 
 
